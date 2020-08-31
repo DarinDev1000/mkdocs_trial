@@ -19,3 +19,6 @@ pip install mkdocs mkdocs-material
 
 ## Build Site
 `mkdocs build`
+
+## Update Github Pages Docs
+`mkdocs gh-deploy`

@@ -1,3 +1,6 @@
 site_name: My Docs
+repo_url: https://github.com/DarinDev1000/mkdocs_trial
 theme:
   name: material
+docs_dir: docs-src
+site_dir: docs

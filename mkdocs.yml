@@ -1,7 +1,7 @@
 site_name: My Docs
 site_author: Darin
 repo_url: https://github.com/DarinDev1000/mkdocs_trial
-edit_uri: root/path/docs-src/  # edit/master/docs-src
+edit_uri: edit/master/docs-src
 theme:
   name: material
 docs_dir: docs-src

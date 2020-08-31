@@ -1,5 +1,2 @@
 # Python package environment
 .venv
-
-# site build folder
-site

@@ -1,5 +1,7 @@
 # MkDocs Trial
 
+Config https://www.mkdocs.org/user-guide/configuration/
+
 ## Install
 
 ```powershell

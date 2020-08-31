@@ -1,2 +1,5 @@
 # Python package environment
 .venv
+
+# Ignore the build folder
+site/

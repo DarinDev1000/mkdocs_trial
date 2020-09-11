@@ -1,5 +1,11 @@
 # MkDocs Trial
 
+## Deployed Site
+
+https://darindev1000.github.io/mkdocs_trial/
+
+## Config Docs
+
 Config https://www.mkdocs.org/user-guide/configuration/
 
 ## Install
